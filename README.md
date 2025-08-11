@@ -2,7 +2,7 @@
 
 **`Desenvolvedor iniciante de Front-End`**
 
-Meu nome é Ryan Gabriel Tirabassi, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Sorocaba (UNISO), atualmente ingressando no 3º semestre do curso. Desde o início da graduação, venho desenvolvendo uma base sólida em lógica de programação, desenvolvimento web, JavaScript e banco de dados, complementando minha formação acadêmica com cursos práticos nas plataformas "[DIO](https://www.dio.me/)" e "[Rocketseat](https://www.rocketseat.com.br/)". 
+Meu nome é Ryan Gabriel Tirabassi, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Sorocaba (UNISO), atualmente ingressando no 3º semestre do curso. Desde o início da graduação, venho desenvolvendo uma base sólida em lógica de programação, desenvolvimento web, JavaScript e banco de dados, complementando minha formação acadêmica com cursos práticos nas plataformas "[DIO](https://www.dio.me/)" e "[Rocketseat](https://www.rocketseat.com.br/)". 
 
 Essas experiências têm me permitido aprofundar conhecimentos técnicos e me manter atualizado com as tecnologias mais utilizadas no mercado. É possível visualizar meus certificados e acompanhamentos de aprendizado diretamente pelo meu perfil no "[Linkedin-RyanTirabassi](https://www.linkedin.com/in/ryan-tirabassi/)", onde compartilho também minhas principais conquistas acadêmicas e profissionais.
 
